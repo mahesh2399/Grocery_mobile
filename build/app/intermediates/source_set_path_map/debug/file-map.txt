@@ -1,0 +1,16 @@
+com.codeforany.online_groceries.app-jetified-window-1.0.0-beta04-0 /home/firstc-lp-004/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.codeforany.online_groceries.app-jetified-annotation-experimental-1.1.0-1 /home/firstc-lp-004/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.codeforany.online_groceries.app-core-1.6.0-2 /home/firstc-lp-004/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.codeforany.online_groceries.app-jetified-window-java-1.0.0-beta04-3 /home/firstc-lp-004/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.codeforany.online_groceries.app-debug-4 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/android/app/src/debug/res
+com.codeforany.online_groceries.app-main-5 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/android/app/src/main/res
+com.codeforany.online_groceries.app-pngs-6 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/app/generated/res/pngs/debug
+com.codeforany.online_groceries.app-resValues-7 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/app/generated/res/resValues/debug
+com.codeforany.online_groceries.app-rs-8 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/app/generated/res/rs/debug
+com.codeforany.online_groceries.app-mergeDebugResources-9 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.codeforany.online_groceries.app-mergeDebugResources-10 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.codeforany.online_groceries.app-merged_res-11 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/app/intermediates/merged_res/debug
+com.codeforany.online_groceries.app-packaged_res-12 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/flutter_timezone/intermediates/packaged_res/debug
+com.codeforany.online_groceries.app-packaged_res-13 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/path_provider_android/intermediates/packaged_res/debug
+com.codeforany.online_groceries.app-packaged_res-14 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/shared_preferences_android/intermediates/packaged_res/debug
+com.codeforany.online_groceries.app-packaged_res-15 /home/firstc-lp-004/Downloads/online_groceries_shop_app_flutter-main/build/sqflite/intermediates/packaged_res/debug
